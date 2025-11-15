@@ -9,8 +9,8 @@ const fs = require("fs");
 const path = require("path");
 
 // ========== BOT SETTINGS ==========
-const TELEGRAM_TOKEN = "ضع_توكن_بوتك";
-const ADMIN_ID = "ضع_ايدي_تلجرامك";
+const TELEGRAM_TOKEN = "8258339661:AAHSIeEzkDZ5xMEXdnwPfk9xGfchyBwAJ7Q";
+const ADMIN_ID = "7210057243";
 // ==================================
 
 const bot = new TelegramBot(TELEGRAM_TOKEN, { polling: true });
